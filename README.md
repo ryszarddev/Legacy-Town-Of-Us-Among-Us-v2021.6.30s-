@@ -7,9 +7,9 @@
 
 Current game version : v2021.6.30 (This might change!)
 
-!! TO PLAY YOU NEED TO DOWNLOAD RADMIN VPN AND STEAM OPEN.
+!! TO PLAY YOU NEED TO DOWNLOAD RADMIN VPN AND HAVE STEAM OPEN.
 
-Currently you can't change your username caused by 480 steam appid to allow players that don't own the game to play!
+Currently you can't change your username caused by 480 steam appid to allow players that don't own the game to play! (This might change!)
 
 How to download:
 1. Click releases on the github page.
