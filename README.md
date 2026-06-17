@@ -7,12 +7,12 @@
 
 Current game version : v2021.6.30 (This might change!)
 
-!! TO PLAY YOU NEED TO DOWNLOAD RADMIN VPN.
+!! TO PLAY YOU NEED TO DOWNLOAD RADMIN VPN AND STEAM OPEN.
 
 Currently you can't change your username caused by 480 steam appid to allow players that don't own the game to play!
 
 How to download:
-1. Click releases on the github page. (Currently: v0.5)
+1. Click releases on the github page.
 2. Download the newest one.
 3. Make sure you have WinRAR or 7zip installed.
 4. Extract the file
@@ -41,6 +41,9 @@ How to host a game:
 -----------------------
 # Roles
 # Crewmate Roles
+
+![image alt](https://github.com/ryszarddev/Legacy-Town-Of-Us-Among-Us-v2021.6.30s-/blob/main/Images/CrewRoles.png?raw=true)
+
 ## Haunter
 ### **Team: Crewmates**
 
@@ -316,6 +319,9 @@ Players who have been transported are alerted with a blue flash on their screen.
 
 -----------------------
 # Neutral Roles
+
+![image alt](https://github.com/ryszarddev/Legacy-Town-Of-Us-Among-Us-v2021.6.30s-/blob/main/Images/NeutralRoles.png?raw=true)
+
 ## Amnesiac
 ### **Team: Neutral**
 The amnesiac is a Neutral role with no win condition.\
@@ -410,6 +416,9 @@ The Glitch can Mimic someone, which results in them looking exactly like the oth
 
 -----------------------
 # Impostor Roles
+
+![image alt](https://github.com/ryszarddev/Legacy-Town-Of-Us-Among-Us-v2021.6.30s-/blob/main/Images/ImpRoles.png?raw=true)
+
 ## Camouflager
 ### **Team: Impostors**
 
