@@ -3,6 +3,8 @@
 ![image alt](https://github.com/ryszarddev/Legacy-Town-Of-Us-Among-Us-v2021.6.30s-/blob/main/Images/TOU-logo.png?raw=true)
 
 
+## *Note: This repository is an unofficial repository of Town of Us!*
+
 Current game version : v2021.6.30 (This might change!)
 
 !! TO PLAY YOU NEED TO DOWNLOAD RADMIN VPN.
