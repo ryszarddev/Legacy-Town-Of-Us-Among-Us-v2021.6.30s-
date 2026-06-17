@@ -12,10 +12,7 @@ Current game version : v2021.6.30 (This might change!)
 Currently you can't change your username caused by 480 steam appid to allow players that don't own the game to play!
 
 How to download:
-1. Click releases on the github page.
-
-![image alt](https://cdn.discordapp.com/attachments/1481709986450116711/1516904728875897074/image.png?ex=6a34571e&is=6a33059e&hm=69066de341c69bb19409a1189f2229ee643f6f12a89a60cb736f65536acac523&)
-
+1. Click releases on the github page. (Currently: v0.5)
 2. Download the newest one.
 3. Make sure you have WinRAR or 7zip installed.
 4. Extract the file
