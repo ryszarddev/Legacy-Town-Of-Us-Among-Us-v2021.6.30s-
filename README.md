@@ -31,7 +31,7 @@ How to play online:
 How to host a game:
 1. Download Radmin VPN (https://www.radmin-vpn.com)
 2. Create a network
-3. Host the game using the local tab. *Online doesn't work caused by outdated version)
+3. Host the game using the local tab. (Online doesn't work caused by outdated version)
 4. Share the network name and password to the players
 5. Done!
 
