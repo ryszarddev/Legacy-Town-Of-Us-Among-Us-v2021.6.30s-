@@ -3,7 +3,7 @@
 ![image alt](https://github.com/ryszarddev/Legacy-Town-Of-Us-Among-Us-v2021.6.30s-/blob/main/Images/toulogo.png?raw=true)
 
 
-## *Note: This repository is an unofficial repository of Town of Us!*
+## *Note: This repository is an unofficial repository of Town of Us! For support join discord.gg/gH47VYGJ2E*
 
 Current game version : v2021.6.30 (This might change!)
 
