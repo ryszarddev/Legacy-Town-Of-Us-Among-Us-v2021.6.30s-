@@ -4,6 +4,7 @@
 
 
 ## *Note: This repository is an unofficial repository of Town of Us! For support join https://discord.gg/gH47VYGJ2E*
+## *2nd Note: This project is not being actively worked on right now for more information join the discord server!*
 
 Current game version : v2021.6.30 (This might change!)
 
