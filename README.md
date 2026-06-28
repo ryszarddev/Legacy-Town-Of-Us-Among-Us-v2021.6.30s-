@@ -25,9 +25,6 @@ How to play online:
 2. Connect to the network your host has shared
 3. Open Among Us.exe
 4. Open Local Tab
-
-![image alt](https://cdn.discordapp.com/attachments/1481709986450116711/1516905023005524188/image.png?ex=6a345764&is=6a3305e4&hm=887444c5fb36d4241b30d74f9c29260df49e5d75df5e891d9ac121d5a3b0ecb5&)
-
 5. Connect to the gameserver (Same name as the host's nickname)
 6. Done!
 
